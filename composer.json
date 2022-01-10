@@ -1,0 +1,22 @@
+{
+    "name": "indianic/cms-pages",
+    "description": "This will create new cms pages",
+    "type": "library",
+    "require": {
+        "illuminate/support": "9.x-dev",
+        "phpunit/phpunit": "10.0.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Indianic\\CmsPages\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roshni Rathore",
+            "email": "roshni.r@indianic.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
