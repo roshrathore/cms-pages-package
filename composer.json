@@ -1,5 +1,5 @@
 {
-    "name": "indianic/cms-pages",
+    "name": "india-nic/cms-pages",
     "description": "This will create new cms pages",
     "type": "library",
     "require": {
