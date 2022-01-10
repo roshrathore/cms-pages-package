@@ -21,7 +21,7 @@
 
     "extra": {
         "laravel": {
-            "provider": [
+            "providers": [
                 "Indianic\\CmsPages\\CmsServiceProvider"
             ]
         }
