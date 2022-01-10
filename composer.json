@@ -3,7 +3,6 @@
     "description": "This will create new cms pages",
     "type": "library",
     "require": {
-        "illuminate/support": "9.x-dev",
         "phpunit/phpunit": "10.0.x-dev"
     },
     "license": "MIT",
