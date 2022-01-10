@@ -17,5 +17,13 @@
             "email": "roshni.r@indianic.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+
+    "extra": {
+        "laravel": {
+            "provider": [
+                "Indianic\\CmsPages\\CmsServiceProvider"
+            ]
+        }
+    }
 }
