@@ -3,7 +3,10 @@
     "description": "This will create new cms pages",
     "type": "library",
     "require": {
-        "india-nic/laravel-data-grid": "dev-laravel-grid"
+        "indianic/laravel-data-grid": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
     },
     "license": "MIT",
     "autoload": {
